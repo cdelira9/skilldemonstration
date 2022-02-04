@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void remainders() {
-        assertEquals(0, SkillDemo.remainder(5,2));
+        assertEquals(0, SkillDemo.remainder(4,2));
     }
 }
